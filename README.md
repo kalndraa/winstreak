@@ -1,2 +1,0 @@
-# winstreak
-Win Streak VD
